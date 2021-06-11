@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My SPA Homework</title>
+  <link rel="stylesheet" href="main.css" />
+  <script defer src="main.js"></script>
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+      <a href="#" onclick="navigateTo('welcome')">Welcome</a> |
+      <a href="#" onclick="navigateTo('post-index')">Posts</a> |
+      <a href="#" onclick="navigateTo('post-new')">New Post</a>
+    </nav>
+  </header>
+  <div class="page active" id="welcome">
+    <h1>Welcome to My first Homework</h1>
+  </div>
+  <div class="page" id="post-show"></div>
+  <div class="page" id="post-index">
+    <h1>Post</h1>
+    <ul class="post-list"></ul>
+  </div>
+  <div class="page" id="post-new">
+    <h1>New post</h1>
+    <form id="new-post-form">
+      <div>
+        <label for="title">Title</label><br />
+        <input type="text" name="title" id="title" />
+      </div>
+      <div>
+        <label for="body">Body</label><br />
+        <textarea name="body" id="body"></textarea>
+      </div>
+      <input type="submit" value="Create post" />
+    </form>
+  </div>
+  <div class="page" id="post-edit">
+    <h1>Edit post</h1>
+    <form id="edit-post-form">
+      <div>
+        <label for="title">Title</label><br />
+        <input type="text" name="title" id="title" />
+      </div>
+      <div>
+        <label for="body">Body</label><br />
+        <textarea name="body" id="body"></textarea>
+      </div>
+      <input type="hidden" value="" name="id" />
+      <input type="submit" value="Update post" />
+    </form>
+  </div>
+</body>
+</html>
