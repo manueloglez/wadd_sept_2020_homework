@@ -1,0 +1,35 @@
+1. What do you think are some of the differences in designing for something that is always with you (like a mobile phone), compared to something you use in a fixed location such as a desktop computer?
+  R. 
+  
+2. Think of an app that in your opinion has made poor choices about some tradeoffs or constraints, like the ones the author complains about in the CBS News app (breaking stories into too-small chunks, taking too long to load, and having to scroll past the same photo on each page before getting to any text)?  Describe the app and explain your experience.
+  R.
+  
+3. Which do you use more: your phone or a desktop or laptop computer? How much overlap is there in the ways that you use them?  Do you prefer using one over the other?
+  R.
+
+4. What’s your favorite mobile app? Why?  
+  R.
+  
+5. Have you ever purchased a mobile app that turned out to be too hard to learn?  Or too hard to use?
+  R.
+  
+6. Do you know people who rarely talk on their phones )preferring to text or email)? How do you think mobile devices are changing how we interact with each other?
+  R.
+  
+7. Describe an app that you find “delightful” and explain why, in the same way the author explained his examples of SoundHound and Paper.  Do not use the same app example as question 4.  Also, say whether you think the designers of the app made it both delightful and usable, or sacrificed some usability in their effort to achieve delight.
+  R.
+  
+8. Find an app that does a good job of providing help or a tutorial or training about how to use it. Describe the app and how it works.
+  R.
+
+9. Find a friend, family member, or classmate who would be willing to do a usability test conducted by you.  You can ask more than one person, but at least one other person is needed.
+  Obsertations:
+    
+
+10. Find an app that can be used in both mobile and desktop versions, and try it on at least two different screen sizes (such as smartphone, tablet, laptop, desktop).  Write up your notes on the differences among the versions and answer these questions:
+  Are there significant differences in features among the versions? What differences did you notice?
+    R.
+  Does one version seem to work significantly better than the others? In what ways?
+    R.
+  How did the designers adapt to smaller screen sizes? Did they scale down the size of elements? Eliminate elements?
+    R.
