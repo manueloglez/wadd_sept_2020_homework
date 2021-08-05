@@ -33,3 +33,51 @@
     R.
   How did the designers adapt to smaller screen sizes? Did they scale down the size of elements? Eliminate elements?
     R.
+
+//////////////////// Chapter 11
+1. Krug has a list of things your site can do that make a user’s goodwill plunge:
+  Hiding information that I want, like phone numbers, shipping rates, and prices.
+  Making me enter data in a specific format (e.g. no spaces in my credit card number)
+  Asking me for information you don’t really need.
+  Disingenuous attempts to convince me that you care about me. (“Your call is very important to us.”)
+  Putting lots of marketing between me and the content I’m looking for.
+  Looking amateurish.
+Which ones annoy you the most, and why? Can you think of any others that aren’t on the list?
+  R.
+  
+2. Pick something that really annoys you about a site or an app and try to figure out why the designers did it that way.  Do you think they had a business reason, or were they just careless or didn’t they think about what their users wanted or needed?
+  R.
+  
+3. In this passage, Krug seems to be saying that it’s acceptable to abuse your users as long as you are making a conscious, informed business decision:
+
+        There may be times when you’ll choose to have your site do some of these user-
+        unfriendly things deliberately. Sometimes it makes business sense not to do
+        exactly what the customer wants. For instance, uninvited pop-ups almost always
+        annoy people to some extent. But if your statistics show you can get 10 percent
+        more revenue by using pop-ups and you think it’s worth annoying your users, you
+        can do it. It’s a business decision. Just be sure you do it in an informed way, rather
+        than inadvertently.
+
+Do you agree? Can you reconcile this with his advice to be a mensch?
+  R.
+  
+4. When a site pops up a message that asks you if you would be willing to give feedback about the site, does that increase or diminish your goodwill?
+  R.
+
+5. When you open a Website on a mobile device, you are often asked if you want to download the corresponding mobile app instead.  What do you usually do when this happens?
+  R.
+  
+6. Think of a site or app that increased your goodwill and explain what, specifically, it did to earn it. Did these positive feelings cause you to change your behaviour in any way (e.g. recommend it to a friend)?
+  R.
+  
+7. Find or design an example of an interface that makes it easy to enter a credit card number in the correct format.  (Add this design to your homework directory in a separate file from the text file, for example: credit_card.html)
+  R.
+  
+8. Give an example of a site or app that saves you time.
+  R.
+  
+9. Find an example of a site that looks less than professional, and say what you would do to improve it.
+  R.
+  
+10. Go to CodeCore’s website (https://codecore.ca), download the app, or do both.  Pick at least 3 tasks to accomplish. (For example, finding information regarding a program, or getting contact details, etc).  Chart your level of goodwill as you use the site.  Write about your experience, good or bad.  Don’t be afraid to mention  things that you may wish to improve.
+  R.
