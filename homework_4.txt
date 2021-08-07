@@ -1,38 +1,51 @@
+////////////////// Chapter 10
 1. What do you think are some of the differences in designing for something that is always with you (like a mobile phone), compared to something you use in a fixed location such as a desktop computer?
-  R. 
+  R. I think the experience must be completely different. For a mobile app, you must design your experience as a quick one. At least for me, I don't want to do long activities on my phone. I want to unlock it, do what I need and put it down again.
+  On the other hand, I think that a desktop app must be straightforward, yes, but I expect that if I seat in front of a computer, I'll have time to spend on it.
   
 2. Think of an app that in your opinion has made poor choices about some tradeoffs or constraints, like the ones the author complains about in the CBS News app (breaking stories into too-small chunks, taking too long to load, and having to scroll past the same photo on each page before getting to any text)?  Describe the app and explain your experience.
-  R.
+  R. The previous version of Clickup was a mess. Clickup is an Task Management App, where you could create task, write descriptions, answer questions and tag your teammates. I use it for work.
+  By default, I got notifications for every single thing that happened on my company's board, and that was a lot. If I wanted to create new tasks the forms had a lot of optional whitespaces that confused you.
+  It was slow. Very slow. I think this happens because Clickup has very complex tasks and simplify them for a mobile version would make the desktop one worse.
   
 3. Which do you use more: your phone or a desktop or laptop computer? How much overlap is there in the ways that you use them?  Do you prefer using one over the other?
-  R.
+  R. For work, i prefer my desktop because I could have more info at once in my screen. I don’t want to be changing between two or three apps to confirm some info just to write an email.
+  For the rest of my time I prefer my smartphone because I could use it everywhere. If I had a light laptop or a good tablet I think it will be a very good fit for me. 
 
 4. What’s your favorite mobile app? Why?  
-  R.
+  R. Telegram. The UI is very clean and cool, and it has a lot of functions that other messages apps don’t have. I like it because is very ease to log in everywhere, the UI and UX is very conscistent in both mobile and desktop versions. 
+  You can attach very big files and they don’t get lost with time. And the group chats could have bots.
   
 5. Have you ever purchased a mobile app that turned out to be too hard to learn?  Or too hard to use?
-  R.
+  R. Not a mobile app, but a smartphone. It was an android phone. My mom wanted to buy a very cheap phone for her own. When I wanted to set it up, I felt lost even that I've always been user from Android.
+  The adjustments where grouped in very complex categories. I used the search bar to look for some option and it didn’t appear. I had to try to find it between a lot of other options.
+  It had some options that when I tried to used them, they were just links to another app in the app store. I felt that it didn’t have all the android functions I was used to. 
   
 6. Do you know people who rarely talk on their phones )preferring to text or email)? How do you think mobile devices are changing how we interact with each other?
-  R.
+  R. Yes, I know people like this. I prefer to talk first by message and when I know what I'm gonna talk about, then I call. I do think that messaging apps are changing how we interact.
+  Before smartphones, I think because it was very difficult to talk to someone, calls used to be longer. Now that we could talk anytime, calls are shorter and to the point.
   
 7. Describe an app that you find “delightful” and explain why, in the same way the author explained his examples of SoundHound and Paper.  Do not use the same app example as question 4.  Also, say whether you think the designers of the app made it both delightful and usable, or sacrificed some usability in their effort to achieve delight.
-  R.
+  R. I think Nike Training is a very good example because it makes a lot more easy and straightforward to start working out. Before someone else needed to recommend you a routine, or you needed to go to a gym trainer. 
+  Now this barrier is over and you have one less excuse to start working out. To do it so, the designers had to curate the list of routines and excersices available. If you had a ton, the app would be a lot more complex and you would have too many options and wouldn't know where to start.
   
 8. Find an app that does a good job of providing help or a tutorial or training about how to use it. Describe the app and how it works.
-  R.
+  R. Woodoku is a mobile game about filling boxes of a Sudoku grid with tetris-like objects. The first time you play a game, you need to play this tutorial, where you must take one piece and place it on a marked spot and see what happens to the rest of the grid.
+  You do this in 3 different scenarios so you could understand how this game is played.
 
 9. Find a friend, family member, or classmate who would be willing to do a usability test conducted by you.  You can ask more than one person, but at least one other person is needed.
-  Obsertations:
+  Observations:
+    I tried this activity with my mom. She is not very tech-savy. I asked her to select and buy some clothes that she liked. She felt overwhelmed by how many options she had on the hamburger menu at the left.
+    She didn’t find an option just called Clothing so she decided to go back to the search bar and type 'jeans'. She felt more confortable.
+    She felt the Size option was too small hence she didn’t found it. The payment process went flawlessly.
     
-
 10. Find an app that can be used in both mobile and desktop versions, and try it on at least two different screen sizes (such as smartphone, tablet, laptop, desktop).  Write up your notes on the differences among the versions and answer these questions:
   Are there significant differences in features among the versions? What differences did you notice?
-    R.
+    R. Yes, some functions are limited in the mobile version. The arrange of some views is completely different so it makes more sense on a mobile screen. Also, the icons are bigger and some texts are replaced by icons.
   Does one version seem to work significantly better than the others? In what ways?
-    R.
+    R. I really enjoy the desktop version. The mobile one I use it just when I'm away from my desktop because in the mobile version I feel very limited even if I know it has the same functions.
   How did the designers adapt to smaller screen sizes? Did they scale down the size of elements? Eliminate elements?
-    R.
+    R. They reduced some texts, some elements became bigger so you can easily click on them, the arrange of the page changed so there are more elements near to the bottom of the screen to help your hands reach for them.
 
 //////////////////// Chapter 11
 1. Krug has a list of things your site can do that make a user’s goodwill plunge:
@@ -43,10 +56,11 @@
   Putting lots of marketing between me and the content I’m looking for.
   Looking amateurish.
 Which ones annoy you the most, and why? Can you think of any others that aren’t on the list?
-  R.
+  R. I guess that a lot of marketing could annoy me the most, because it only makes you waste time, it distracts you from what you were doing and sometimes it could be very invasive, so much that you could be clicking on it by accident.
+  I'd add long loading times and having to click a lot of times to get to the info you are looking for.
   
 2. Pick something that really annoys you about a site or an app and try to figure out why the designers did it that way.  Do you think they had a business reason, or were they just careless or didn’t they think about what their users wanted or needed?
-  R.
+  R. I am playing a mobile game called Woodoku. After each game, some random ad pops up. You could close it, but the button is so small that some times I try to click on it I end up clicking on the add and going to their website.
   
 3. In this passage, Krug seems to be saying that it’s acceptable to abuse your users as long as you are making a conscious, informed business decision:
 
@@ -59,25 +73,45 @@ Which ones annoy you the most, and why? Can you think of any others that aren’
         than inadvertently.
 
 Do you agree? Can you reconcile this with his advice to be a mensch?
-  R.
+  R. I agree with Krug. Sometimes you need to do some "bad" practices, but even to do bad practices you must do them with style. What I mean is, to keep been a mensch you must treat the user with respect and dignity. 
+  For example: if you need to add a pop up, at least it should be look nice, keep the same style than the rest of the page, and be easy to close.
   
 4. When a site pops up a message that asks you if you would be willing to give feedback about the site, does that increase or diminish your goodwill?
-  R.
+  R. It increases my goodwill because it seems that they are open to hear me and they recognize that their site isn't perfect and could be improved.
 
 5. When you open a Website on a mobile device, you are often asked if you want to download the corresponding mobile app instead.  What do you usually do when this happens?
-  R.
+  R. I ignore that request. If I'm not a very active user of this website or service I wouldn't like to download their app because I'll be using their site just once.
+  If I do this for every website that asked me so, my phone would be full of apps unused apps. I wouldn't even remember if I had their app installed.
   
 6. Think of a site or app that increased your goodwill and explain what, specifically, it did to earn it. Did these positive feelings cause you to change your behaviour in any way (e.g. recommend it to a friend)?
-  R.
+  R. Mercado Pago is a latin payment app. You can use it to pay for things with QR Codes. I was skeptical of this service, but I downloaded anyway just to try. 
+  They know the latin market may feel just like me, so they decided to encourage their users with pretty good deals for the goods and services you pay with their app. 
+  So good deals that a lot of people had forgotten their skepticism and now they are using it. I always recommend it to my friends because I usually find good deals, even now that I'm an active user.
   
 7. Find or design an example of an interface that makes it easy to enter a credit card number in the correct format.  (Add this design to your homework directory in a separate file from the text file, for example: credit_card.html)
-  R.
+  R. Files added in this repo. I really liked this example only because it is very visual. It automaticaly separates the digits as they are in the card without the user typing anything extra. This helps the user identify an error very quickly.
   
 8. Give an example of a site or app that saves you time.
-  R.
+  R. JustWatch is an website/app that serves like a catalog of every available content in different streaming services. 
+  If I want to know where to find a movie, I just look for it on the app, and it will tell me if it's available on Netflix, Prime or HBO.
+  This save me time so I shouldn't open each app and look for it.
   
 9. Find an example of a site that looks less than professional, and say what you would do to improve it.
-  R.
+  R. Craiglist. It looks pretty basic. What I would do first is change their typography. That will help a ton. And change its lists to dropdowns or something easy to look for. Now it looks very crowded with so many letters.
   
 10. Go to CodeCore’s website (https://codecore.ca), download the app, or do both.  Pick at least 3 tasks to accomplish. (For example, finding information regarding a program, or getting contact details, etc).  Chart your level of goodwill as you use the site.  Write about your experience, good or bad.  Don’t be afraid to mention  things that you may wish to improve.
-  R.
+  R. 
+    1. Find the location of the campus: 
+      I enter the page. 90%
+      I didn’t find it inmeadetely so I click on About. 80%
+      I didn’t find it on the top of About, so i scroll down and find it. 70%
+    2. Find info for WADD program:
+      I enter the page. 90%
+      I see programs and scroll down. 90%
+      I found the program I'm interested. 100%
+      Clicked on view more. The first thing I see is "Apply now" and it seems there is nothing else there. 80%
+      Scrolled down and found all the info. 90%
+    3. Find how international students may apply:
+      I enter the page. 90%
+      Go to For student tab. I see there is an international option. Clicked on it. 100%
+      Scrolled down. Found a list of every step I should take. 100%
